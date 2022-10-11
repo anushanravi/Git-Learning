@@ -1,5 +1,2 @@
-for i in range(1,10):
-	print(i)
+Anushan is a bad boy. He is a Senior Data Engineer
 
-
-I am a Snowflake developer and also a Senior Data Engineer
